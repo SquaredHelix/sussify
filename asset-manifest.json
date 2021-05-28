@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/sussify/static/css/main.1dbf8d2d.chunk.css",
-    "main.js": "/sussify/static/js/main.389a5892.chunk.js",
-    "main.js.map": "/sussify/static/js/main.389a5892.chunk.js.map",
+    "main.js": "/sussify/static/js/main.3f0452ee.chunk.js",
+    "main.js.map": "/sussify/static/js/main.3f0452ee.chunk.js.map",
     "runtime-main.js": "/sussify/static/js/runtime-main.3fb3d7c7.js",
     "runtime-main.js.map": "/sussify/static/js/runtime-main.3fb3d7c7.js.map",
     "static/css/2.61b4cb56.chunk.css": "/sussify/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.db09e0ad.chunk.js": "/sussify/static/js/2.db09e0ad.chunk.js",
-    "static/js/2.db09e0ad.chunk.js.map": "/sussify/static/js/2.db09e0ad.chunk.js.map",
+    "static/js/2.8a98169a.chunk.js": "/sussify/static/js/2.8a98169a.chunk.js",
+    "static/js/2.8a98169a.chunk.js.map": "/sussify/static/js/2.8a98169a.chunk.js.map",
     "index.html": "/sussify/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/sussify/static/css/2.61b4cb56.chunk.css.map",
     "static/css/main.1dbf8d2d.chunk.css.map": "/sussify/static/css/main.1dbf8d2d.chunk.css.map",
-    "static/js/2.db09e0ad.chunk.js.LICENSE.txt": "/sussify/static/js/2.db09e0ad.chunk.js.LICENSE.txt"
+    "static/js/2.8a98169a.chunk.js.LICENSE.txt": "/sussify/static/js/2.8a98169a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3fb3d7c7.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.db09e0ad.chunk.js",
+    "static/js/2.8a98169a.chunk.js",
     "static/css/main.1dbf8d2d.chunk.css",
-    "static/js/main.389a5892.chunk.js"
+    "static/js/main.3f0452ee.chunk.js"
   ]
 }
