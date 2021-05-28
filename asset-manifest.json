@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sussify/static/css/main.1dbf8d2d.chunk.css",
-    "main.js": "/sussify/static/js/main.82c9d220.chunk.js",
-    "main.js.map": "/sussify/static/js/main.82c9d220.chunk.js.map",
+    "main.js": "/sussify/static/js/main.007598e5.chunk.js",
+    "main.js.map": "/sussify/static/js/main.007598e5.chunk.js.map",
     "runtime-main.js": "/sussify/static/js/runtime-main.3fb3d7c7.js",
     "runtime-main.js.map": "/sussify/static/js/runtime-main.3fb3d7c7.js.map",
     "static/css/2.61b4cb56.chunk.css": "/sussify/static/css/2.61b4cb56.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.8a98169a.chunk.js",
     "static/css/main.1dbf8d2d.chunk.css",
-    "static/js/main.82c9d220.chunk.js"
+    "static/js/main.007598e5.chunk.js"
   ]
 }
